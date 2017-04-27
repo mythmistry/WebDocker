@@ -1,0 +1,17 @@
+{
+  "name": "assignemt5",
+  "version": "0.0.1",
+  "description": "this package is about creating and using aserver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Amitkumar Mistry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security"
+  
+  }
+}
